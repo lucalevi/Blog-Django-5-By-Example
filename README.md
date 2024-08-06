@@ -5,8 +5,8 @@ This repository demonstrates various capabilities of Django by implementing a bl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/lucalevi/Blog-Django-5-By-Example.git
+cd Blog-Django-5-By-Example
 ```
 
 2. Create and activate a virtual environment:
