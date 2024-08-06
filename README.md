@@ -1,7 +1,7 @@
 # Django Project "Blog"
 This repository demonstrates various capabilities of Django by implementing a blog application. The core functionality is built using custom models, views, and templates, which can be found in the blog/ directory.
 
-##Setup
+## Setup
 1. Clone the repository:
 
 ```bash
