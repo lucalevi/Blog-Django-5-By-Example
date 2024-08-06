@@ -1,0 +1,30 @@
+# Virtual environment
+my_env
+
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+
+# Local development settings
+local_settings.py
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*~
